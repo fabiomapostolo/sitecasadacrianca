@@ -1,0 +1,36 @@
+header{
+    background-image: url('./src/assets/fundo\ header.jpg');
+    background-size: cover;    
+
+}
+
+.nav-item{
+    font-size: 1.3rem;
+}
+
+footer {
+    color: white;
+    
+}
+
+.fab{
+    font-size: 1.7rem;
+    
+}
+ 
+
+/* Page style
+   !!You don't need this for you gallery works!! */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Ok, maybe you should use it for you gallery works */
+  }
+  
+  body {
+    background: #efefef;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  
